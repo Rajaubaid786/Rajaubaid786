@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Ubaid Roman
+# 👋 Hi, I'm Raja Ubaid 
 
 🔐 Cybersecurity Learner | SOC & DFIR Intern  
 💻 Web Developer (Freelance Projects)  
