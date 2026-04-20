@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Ubaid Roman
 
-<!--
-**Rajaubaid786/Rajaubaid786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Learner | SOC & DFIR Intern  
+💻 Web Developer (Freelance Projects)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎯 Focused on Cybersecurity (SOC, DFIR, Threat Detection)
+- 🛠️ Building real-world skills through labs & internships
+- 🌐 Creating web projects for freelance work
+- 📈 Always learning and improving
+
+---
+
+## 🧠 Skills
+- Cybersecurity Basics (SOC, DFIR, Networking)
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+## 📂 Current Focus
+- 🔍 Security Labs & Writeups
+- 🌐 Web Development Projects
+- ⚡ Practical Learning
+
+---
+
