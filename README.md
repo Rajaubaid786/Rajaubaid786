@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raja Ubaid 
 
 🔐 Cybersecurity Learner | SOC & DFIR Intern  
-💻 Web Developer (Freelance Projects)  
+💻 MERN Stack Developer (Freelance Projects)  
 
 ---
 
