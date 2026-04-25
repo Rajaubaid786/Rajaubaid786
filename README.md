@@ -1,11 +1,11 @@
-# Raja Ubaid
+# Raja Ubaid 👨‍💻
 
 **Cybersecurity Engineer · MERN Stack Developer**  
 CEH Certified · SOC & DFIR · Final Year CS Student
 
 ---
 
-## About
+## 👤 About
 
 I'm a final-year Computer Science student transitioning into cybersecurity and full-stack development simultaneously. My focus is on building real-world, production-level skills — not just theory.
 
@@ -15,15 +15,15 @@ My upcoming final project is an **AI Voice Receptionist for Small Businesses** �
 
 ---
 
-## Core Focus Areas
+## 🎯 Core Focus Areas
 
-**Cybersecurity**
+**🔐 Cybersecurity**
 - SOC Operations — threat detection, alert triage, log analysis
 - Digital Forensics & Incident Response (DFIR)
 - Network security, vulnerability assessment
 - Certified Ethical Hacker (CEH)
 
-**Full Stack Development**
+**🌐 Full Stack Development**
 - MERN Stack — MongoDB, Express, React, Node.js
 - REST API design, JWT authentication, role-based access control
 - React component architecture, state management
@@ -31,18 +31,18 @@ My upcoming final project is an **AI Voice Receptionist for Small Businesses** �
 
 ---
 
-## Projects
+## 🚀 Projects
 
 **SkillForge LMS** — MERN Stack  
 Full-featured Learning Management System with Admin, Instructor, and Student portals. Role-based authentication, course management, enrollment tracking, and lesson delivery.  
 [GitHub →](https://github.com/Rajaubaid786/Skillforge-LMS)
 
-**AI Voice Receptionist** *(In Progress)*  
+**🤖 AI Voice Receptionist** *(In Progress)*  
 AI-powered voice receptionist system for small businesses — handles calls, answers queries, and manages appointments autonomously. Built with NLP and voice processing integrations.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ```
 Languages      JavaScript, Python, HTML, CSS
@@ -57,7 +57,7 @@ Certs          CEH — Certified Ethical Hacker
 
 ---
 
-## Currently
+## ⚡ Currently
 
 - 🔐 SOC & DFIR — threat detection, log analysis, incident response workflows
 - 🤖 Building AI Voice Receptionist — final year project
@@ -66,4 +66,4 @@ Certs          CEH — Certified Ethical Hacker
 ---
 
 *Open to cybersecurity and full-stack opportunities.*  
-*Fast learner. Ships real projects. Loves hard problems.*
+*Fast learner. Ships real projects. Loves hard problems.* 🚀
