@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Muhammad Ubaid Roman Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Ubaid Roman</h1>
 
 <h3 align="center">
