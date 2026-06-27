@@ -5,7 +5,7 @@ SOC Analyst • Digital Forensics • Incident Response • Security Engineering
 </h3>
 
 <p align="center">
-Final-year Computer Science Student | CEH & CHFI Certified | Passionate about Blue Team Operations and Security Engineering
+BS Computer Science Graduate | CEH & CHFI Certified | Passionate about Blue Team Operations and Security Engineering
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Alongside cybersecurity, I also develop secure full-stack web applications using
 
 - 🛡️ Certified Ethical Hacker (CEH) — EC-Council
 - 🔍 Computer Hacking Forensic Investigator (CHFI) — EC-Council
-- 🎓 B.S. Computer Science (Degree Result Awaited)
+- 🎓 B.S. Computer Science Graduate
 - 💼 Security Operations Center (SOC) Internship — Cyberster
 - 🧪 Digital Forensics & Incident Response (DFIR) Internship — Cyberster
 
@@ -92,35 +92,85 @@ A full-featured MERN Learning Management System featuring Admin, Instructor, and
 
 ## 🔐 Cybersecurity
 
-<p align="left">
+### Operating Systems
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,git,github,vscode"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell"/>
 </p>
 
-<p align="left">
+### Programming & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### Security Tools
+
+<p>
 
 <img src="https://img.shields.io/badge/Wazuh-SIEM-0056D6?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk">
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark">
+
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/FTK-Forensics-red?style=for-the-badge">
+
 <img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-6A1B9A?style=for-the-badge">
-<img src="https://img.shields.io/badge/MITRE-ATT%26CK-darkred?style=for-the-badge">
+
+</p>
+
+### Security Concepts
+
+<p>
+
+<img src="https://img.shields.io/badge/SOC-Operations-darkgreen?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/DFIR-Investigation-darkred?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Threat-Hunting-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Incident-Response-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/MITRE-ATT%26CK-brown?style=for-the-badge">
 
 </p>
 
 ---
 
-## 💻 Full Stack Development
+# 💻 Full Stack Development
 
-<p align="left">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,git,github,vscode"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
----
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+</p>
 
 ## 🔥 Core Skills
 
@@ -150,6 +200,22 @@ A full-featured MERN Learning Management System featuring Admin, Instructor, and
 - Node.js
 - Express.js
 - Git & GitHub
+
+---
+
+# 🏆 Professional Highlights
+
+✅ 12 Weeks of Hands-on Cybersecurity Internship
+
+✅ SOC & DFIR Portfolio Projects
+
+✅ CEH & CHFI Certified
+
+✅ Full Stack MERN Developer
+
+✅ AI Voice Receptionist SaaS
+
+✅ Passionate about Blue Team Operations
 
 ---
 
