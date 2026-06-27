@@ -1,69 +1,217 @@
-# Raja Ubaid 👨‍💻
+<h1 align="center">Hi 👋, I'm Muhammad Ubaid Roman</h1>
 
-**Cybersecurity Engineer · MERN Stack Developer**  
-CEH Certified · SOC & DFIR · Final Year CS Student
+<h3 align="center">
+SOC Analyst • Digital Forensics • Incident Response • Security Engineering
+</h3>
+
+<p align="center">
+Final-year Computer Science Student | CEH & CHFI Certified | Passionate about Blue Team Operations and Security Engineering
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rajaubaid">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Rajaubaid786">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
 
 ---
 
-## 👤 About
+# 👨‍💻 About Me
 
-I'm a final-year Computer Science student transitioning into cybersecurity and full-stack development simultaneously. My focus is on building real-world, production-level skills — not just theory.
+Computer Science Graduate | CEH & CHFI Certified | Building Practical Cybersecurity Skills through SOC, DFIR, and Security Engineering
 
-Currently deepening expertise in SOC operations and Digital Forensics & Incident Response, while also shipping full-stack web applications using the MERN stack.
+I enjoy building enterprise-style security labs, investigating cyber incidents, analyzing digital evidence, and documenting technical investigations using industry-standard methodologies.
 
-My upcoming final project is an **AI Voice Receptionist for Small Businesses** — combining NLP, voice processing, and backend integration into a deployable SaaS-style product.
+Alongside cybersecurity, I also develop secure full-stack web applications using the **MERN Stack**, enabling me to understand both application development and application security.
 
 ---
 
-## 🎯 Core Focus Areas
+## 🎯 Current Focus
 
-**🔐 Cybersecurity**
-- SOC Operations — threat detection, alert triage, log analysis
+- 🔐 Preparing for SOC Analyst & Security Engineer roles
+- 🧪 Practicing Digital Forensics & Incident Response
+- 🛡️ Building practical Blue Team security labs
+- 🤖 Developing an AI Voice Receptionist SaaS
+- ☁️ Expanding knowledge in Cloud & Security Engineering
+
+---
+
+---
+
+# 🏅 Certifications
+
+- 🛡️ Certified Ethical Hacker (CEH) — EC-Council
+- 🔍 Computer Hacking Forensic Investigator (CHFI) — EC-Council
+- 🎓 B.S. Computer Science (Degree Result Awaited)
+- 💼 Security Operations Center (SOC) Internship — Cyberster
+- 🧪 Digital Forensics & Incident Response (DFIR) Internship — Cyberster
+
+---
+
+# 🚀 Featured Cybersecurity Projects
+
+## 🔐 SOC Labs
+
+Enterprise-style Security Operations Center portfolio documenting six weeks of hands-on Blue Team operations, including SIEM deployment, threat detection, log analysis, threat hunting, incident response, and technical documentation.
+
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Rajaubaid786/SOC-Labs)
+
+---
+
+## 🧪 DFIR Labs
+
+Digital Forensics & Incident Response portfolio documenting six weeks of forensic investigations covering Windows artifacts, Registry analysis, memory forensics, timeline reconstruction, evidence correlation, and professional investigation reporting.
+
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Rajaubaid786/DFIR-Labs)
+
+---
+
+# 💻 Featured Development Projects
+
+## 🤖 Phoenix AI Voice Receptionist *(In Progress)*
+
+AI-powered voice receptionist designed for small businesses featuring voice automation, appointment scheduling, CRM integration, Twilio messaging, WhatsApp notifications, and workflow automation using Make.com and Cal.com.
+
+---
+
+## 🎓 SkillForge Learning Management System
+
+A full-featured MERN Learning Management System featuring Admin, Instructor, and Student portals with JWT authentication, role-based authorization, course management, and enrollment tracking.
+
+[![Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Rajaubaid786/Skillforge-LMS)
+
+---
+
+# 🛠️ Tech Stack
+
+## 🔐 Cybersecurity
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,git,github,vscode"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Wazuh-SIEM-0056D6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark">
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/FTK-Forensics-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/MITRE-ATT%26CK-darkred?style=for-the-badge">
+
+</p>
+
+---
+
+## 💻 Full Stack Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,git,github,vscode"/>
+
+</p>
+
+---
+
+## 🔥 Core Skills
+
+**Cybersecurity**
+
+- Security Operations Center (SOC)
 - Digital Forensics & Incident Response (DFIR)
-- Network security, vulnerability assessment
-- Certified Ethical Hacker (CEH)
+- Threat Detection
+- Incident Response
+- Threat Hunting
+- Log Analysis
+- Vulnerability Assessment
+- Windows Forensics
+- Memory Forensics
+- Network Security
+- SIEM
+- MITRE ATT&CK
 
-**🌐 Full Stack Development**
-- MERN Stack — MongoDB, Express, React, Node.js
-- REST API design, JWT authentication, role-based access control
-- React component architecture, state management
-- Git, GitHub, deployment workflows
+**Development**
 
----
-
-## 🚀 Projects
-
-**SkillForge LMS** — MERN Stack  
-Full-featured Learning Management System with Admin, Instructor, and Student portals. Role-based authentication, course management, enrollment tracking, and lesson delivery.  
-[GitHub →](https://github.com/Rajaubaid786/Skillforge-LMS)
-
-**🤖 AI Voice Receptionist** *(In Progress)*  
-AI-powered voice receptionist system for small businesses — handles calls, answers queries, and manages appointments autonomously. Built with NLP and voice processing integrations.
-
----
-
-## 🛠️ Tech Stack
-
-```
-Languages      JavaScript, Python, HTML, CSS
-Frontend       React.js, React Router, Axios
-Backend        Node.js, Express.js
-Database       MongoDB, Mongoose
-Auth           JWT, Bcrypt
-Security       SIEM, Log Analysis, Incident Response, Network Forensics
-Tools          Git, GitHub, VS Code, Postman, Wireshark, Burp Suite
-Certs          CEH — Certified Ethical Hacker
-```
+- MERN Stack
+- REST APIs
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- MongoDB
+- React.js
+- Node.js
+- Express.js
+- Git & GitHub
 
 ---
 
-## ⚡ Currently
+# 📈 GitHub Statistics
 
-- 🔐 SOC & DFIR — threat detection, log analysis, incident response workflows
-- 🤖 Building AI Voice Receptionist — final year project
-- 📈 Preparing for cybersecurity roles — SOC Analyst / Security Engineer
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajaubaid786&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaubaid786&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaubaid786&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-*Open to cybersecurity and full-stack opportunities.*  
-*Fast learner. Ships real projects. Loves hard problems.* 🚀
+# 🌱 Currently Learning
+
+- ☁️ Cloud Security (AWS)
+- 🛡️ Detection Engineering
+- 📊 Threat Hunting
+- ⚙️ Security Automation
+- 🤖 AI for Cybersecurity
+- 🔐 Secure Software Development
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rajaubaid">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Rajaubaid786">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Philosophy
+
+> **"Security is not about knowing every attack. It's about continuously learning, adapting, and building systems that can withstand them."**
+
+---
+
+⭐ **If you like my work, consider giving a Star to my repositories.**
+
+Thanks for visiting my profile! 👋
+
+</div>
