@@ -172,6 +172,8 @@ A full-featured MERN Learning Management System featuring Admin, Instructor, and
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
 </p>
 
+---
+
 ## 🔥 Core Skills
 
 **Cybersecurity**
@@ -256,7 +258,7 @@ A full-featured MERN Learning Management System featuring Admin, Instructor, and
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ubaidjunjua786@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
